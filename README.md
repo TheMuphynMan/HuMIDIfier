@@ -1,4 +1,4 @@
-A HuMIDIfier for your voice.
+A HuMIDIfier for your voice that helps you convey your musical thoughts into sound.
 
 Humidity really has nothing to do with it. But this website takes the notes
 that you sing and creates a song to accompany it. Be loud and clear as our
